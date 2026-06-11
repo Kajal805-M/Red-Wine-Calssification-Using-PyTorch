@@ -13,7 +13,6 @@ A deep learning classification project built using **PyTorch** to predict the qu
 ## 📌 Project Overview
 
 This project demonstrates a complete **CSV-based neural network classification pipeline** using PyTorch.
-
 The model takes wine chemical properties as input and predicts the wine quality class.
 
 ---
@@ -21,13 +20,11 @@ The model takes wine chemical properties as input and predicts the wine quality 
 ## 🎯 Objective
 
 The main objective of this project is to build a neural network model that can classify red wine quality using a structured CSV dataset.
-
 ---
 
 ## 📂 Dataset
 
 The dataset used in this project is:
-
 ```text
 winequality-red.csv
 ```
@@ -122,7 +119,6 @@ The original wine quality values are:
 ```text
 3, 4, 5, 6, 7, 8
 ```
-
 These are encoded into:
 
 ```text
@@ -196,7 +192,7 @@ Epoch [20/100], Loss: 1.1023
 Epoch [30/100], Loss: 0.9821
 
 Test Accuracy:
-62.50%
+##62.50%
 ```
 
 ---
